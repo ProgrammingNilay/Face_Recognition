@@ -34,7 +34,7 @@ Image Processing: Pillow (PIL), numpy
 1. Clone the Repository
 Bash
 
-git clone https://github.com/yourusername/face-recog-attendance.git
+git clone https://github.com/ProgrammingNilay/Face_Recognition.git
 cd face-recog-attendance
 2. Install Dependencies
 Note for Windows Users: The face_recognition library depends on dlib. You may need to install CMake and Visual Studio C++ Build Tools before installing the requirements.
